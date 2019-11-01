@@ -1,0 +1,6 @@
+{
+    "extends": "tslint-config-standard",
+    "compilerOptions": {
+        "strict": true
+    }
+}
